@@ -23,7 +23,7 @@ namespace TP3.ApplicationService
             this.Configuration = configuration;
         }
 
-        public string AuthenticateUser (string nome, string email)
+        public string AuthenticateUser (string email, string nome)
         {
             var amigo = this.Repository.GetAmigoByEmail(email);
 

@@ -21,8 +21,13 @@ C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR
 C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_TP3\TP3.CMD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_TP3\TP3.CMD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
 C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_TP3\TP3.CMD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_TP3\TP3.CMD\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_TP3\TP3.CMD\bin\Debug\netcoreapp3.1\RestSharp.dll
 C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_TP3\TP3.CMD\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_TP3\TP3.CMD\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_TP3\TP3.CMD\bin\Debug\netcoreapp3.1\TP3.Domain.dll
+C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_TP3\TP3.CMD\bin\Debug\netcoreapp3.1\TP3.Domain.pdb
+C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_TP3\TP3.CMD\obj\Debug\netcoreapp3.1\TP3.CMD.csprojAssemblyReference.cache
 C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_TP3\TP3.CMD\obj\Debug\netcoreapp3.1\TP3.CMD.AssemblyInfoInputs.cache
 C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_TP3\TP3.CMD\obj\Debug\netcoreapp3.1\TP3.CMD.AssemblyInfo.cs
 C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_TP3\TP3.CMD\obj\Debug\netcoreapp3.1\TP3.CMD.csproj.CoreCompileInputs.cache

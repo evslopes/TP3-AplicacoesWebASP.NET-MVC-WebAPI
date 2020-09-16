@@ -17,7 +17,6 @@ namespace TP3.Repository.Context
 
         public AmigoContext(DbContextOptions<AmigoContext> options) : base(options)
         {
-
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

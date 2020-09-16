@@ -75,6 +75,7 @@ C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR
 C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_TP3\TP3.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
 C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_TP3\TP3.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
 C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_TP3\TP3.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_TP3\TP3.Web\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
 C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_TP3\TP3.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
 C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_TP3\TP3.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_TP3\TP3.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
@@ -136,6 +137,8 @@ C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR
 C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_TP3\TP3.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
 C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_TP3\TP3.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
 C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_TP3\TP3.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_TP3\TP3.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_TP3\TP3.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_TP3\TP3.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_TP3\TP3.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_TP3\TP3.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll

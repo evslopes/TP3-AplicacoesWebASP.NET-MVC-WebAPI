@@ -9,4 +9,3 @@ C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR
 C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_TP3\TP3.Domain\obj\Debug\netcoreapp3.1\TP3.Domain.dll
 C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_TP3\TP3.Domain\obj\Debug\netcoreapp3.1\TP3.Domain.pdb
 C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_TP3\TP3.Domain\obj\Debug\netcoreapp3.1\TP3.Domain.genruntimeconfig.cache
-C:\Users\evslo\OneDrive\Estudos\Faculdade\Desenvolvimento API Web\Elvis_Lopes_DR4_TP3\TP3.Domain\obj\Debug\netcoreapp3.1\TP3.Domain.csprojAssemblyReference.cache
