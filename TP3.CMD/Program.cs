@@ -33,6 +33,8 @@ namespace TP3.CMD
                     $"\nStatus: {response.StatusCode} " +
                     $"\nValidação: {response.IsSuccessful}");
 
+                Console.WriteLine(response.Data);
+
                 
             }
         }

@@ -3,17 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP3.API", "TP3.API.csproj", "{002295C4-C5C8-42B0-86C6-68566D4A4771}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TP3.API", "TP3.API.csproj", "{002295C4-C5C8-42B0-86C6-68566D4A4771}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP3.Domain", "..\TP3.Domain\TP3.Domain.csproj", "{7BFA94F2-1C69-431C-8474-649FCD85545F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TP3.Domain", "..\TP3.Domain\TP3.Domain.csproj", "{7BFA94F2-1C69-431C-8474-649FCD85545F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP3.Repository", "..\TP3.Repository\TP3.Repository.csproj", "{6C1970E3-03B9-4E2D-BA2C-0069EB9FE3E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TP3.Repository", "..\TP3.Repository\TP3.Repository.csproj", "{6C1970E3-03B9-4E2D-BA2C-0069EB9FE3E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP3.ApplicationService", "..\TP3.ApplicationService\TP3.ApplicationService.csproj", "{7AFF677F-006E-4384-B792-F15757B0A362}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TP3.ApplicationService", "..\TP3.ApplicationService\TP3.ApplicationService.csproj", "{7AFF677F-006E-4384-B792-F15757B0A362}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP3.Web", "..\TP3.Web\TP3.Web.csproj", "{90EA6025-E6CE-4DCA-8DE1-60057FC1F2F6}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP3.CMD", "..\TP3.CMD\TP3.CMD.csproj", "{0934D031-B2F3-4209-9161-89D0A76F20DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TP3.CMD", "..\TP3.CMD\TP3.CMD.csproj", "{0934D031-B2F3-4209-9161-89D0A76F20DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,10 +35,6 @@ Global
 		{7AFF677F-006E-4384-B792-F15757B0A362}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7AFF677F-006E-4384-B792-F15757B0A362}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7AFF677F-006E-4384-B792-F15757B0A362}.Release|Any CPU.Build.0 = Release|Any CPU
-		{90EA6025-E6CE-4DCA-8DE1-60057FC1F2F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{90EA6025-E6CE-4DCA-8DE1-60057FC1F2F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{90EA6025-E6CE-4DCA-8DE1-60057FC1F2F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{90EA6025-E6CE-4DCA-8DE1-60057FC1F2F6}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0934D031-B2F3-4209-9161-89D0A76F20DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0934D031-B2F3-4209-9161-89D0A76F20DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0934D031-B2F3-4209-9161-89D0A76F20DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
